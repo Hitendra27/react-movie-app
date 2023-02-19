@@ -3,10 +3,11 @@
 A movie app built with React.js 
 
 ### screenshots of the app.
-
-
-
-
+<img width="1440" alt="Screenshot 2023-02-19 at 03 32 26" src="https://user-images.githubusercontent.com/73651340/219958541-82a32c18-bd2e-42ec-a23c-6dd5e917ea07.png">
+<img width="1440" alt="Screenshot 2023-02-19 at 03 32 32" src="https://user-images.githubusercontent.com/73651340/219958553-2e4b8641-0e34-4b63-af6a-c130b2f45648.png">
+<img width="1440" alt="Screenshot 2023-02-19 at 03 32 35" src="https://user-images.githubusercontent.com/73651340/219958564-7a887228-9ad1-4644-a1f6-f4cf4ecdff6f.png">
+<img width="1440" alt="Screenshot 2023-02-19 at 03 32 38" src="https://user-images.githubusercontent.com/73651340/219958574-c4cfdee2-dbb0-431b-a7b6-989f6e822ac4.png">
+<img width="1440" alt="Screenshot 2023-02-19 at 03 32 59" src="https://user-images.githubusercontent.com/73651340/219958580-bf6f7265-4ecf-4492-a8a1-c16b077d4ecd.png">
 
 # Getting Started with Create React App
 
